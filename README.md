@@ -10,7 +10,7 @@ However, the true value of this exercise is revealed not in simply replicating t
 
 The foundation of any robust Kubernetes deployment is its network architecture. Before a single binary was downloaded, a deliberate design was implemented on Microsoft Azure to enforce a strict security posture, minimizing the clusters attack surface from the outset. This architecture, visualized below, prioritizes isolation and controlled access.
 
-![ System architecture]( article/1 system architecture.png)
+![ System architecture]("article/1 system architecture.png")
 <figcaption>Figure 1: System architecture.</figcaption>
 
 The core principles of this design are:
@@ -316,3 +316,4 @@ The experience yielded several key lessons.
 
 
 It is in these moments of diagnosis and resolution that true learning occurs. Mastering these fundamentals is what elevates a practitioner from a tool user to a systems engineer, and there is no more effective path to that mastery than building it, piece by piece, the hard way.
+
